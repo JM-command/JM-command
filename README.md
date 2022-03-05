@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm André Rodrigues</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jm-command" alt="jm-command" /></a> </p>
-
 - 🔭 I’m currently working on [Discord Bot Controller](https://github.com/JM-command/Hiriko)
 
 - 👨‍💻 All of my projects are available at [https://jm-command.xyz](https://jm-command.xyz)
