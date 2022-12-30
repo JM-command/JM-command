@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [SOON](SOON)
 
-- ⚡ Fun fact **6*7 = 2*21 = 42**
+- ⚡ Fun fact **6 * 7 = 2 * 21 = 42**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
