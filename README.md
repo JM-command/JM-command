@@ -1,44 +1,34 @@
-<h1 align="center">Jaime André — JM</h1>
+# Jaime André Coelho Rodrigues
 
-<p align="center">
-  <strong>Founder & Full-Stack Developer · Switzerland</strong><br/>
-  Building SaaS products, Minecraft plugins & infrastructure at <a href="https://irixiagroup.ch">IrixiaGroup</a>
-</p>
+Développeur web en Suisse romande. Interfaces UI, parcours utilisateurs UX, intégration de services et déploiement Linux.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jm-command&color=0e75b6&style=flat" />
-</p>
+Je recherche un poste en développement web pour contribuer à des projets concrets et progresser au sein d’une équipe. Mon parcours associe un apprentissage en développement d’applications, des projets web et l’accompagnement d’utilisateurs.
 
-<p align="center">
-  <a href="https://linkedin.com/in/jaime-andre-coelho"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jm_command@irixiagroup.ch"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://irixiagroup.ch"><img src="https://img.shields.io/badge/Website-111111?style=flat&logo=firefox&logoColor=white" /></a>
-  <a href="https://twitter.com/jm_command"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-</p>
+## Réalisations
 
----
+### [MC-TERRA](https://mc-terra.ch)
+Plateforme de coaching et de bien-être. Responsable du projet et développeur : besoins métier, interfaces, réservation, espace client, administration et intégration de services (agenda, paiements, e-mails). Plusieurs versions successives, avec déploiement et maintenance évolutive.
 
-### What I build
+**Environnement :** TypeScript, React, TanStack Start, Convex, Node.js et Linux.
 
-| Project | Description |
-|---|---|
-| [Rivly.ch](https://rivly.ch) | Multi-merchant booking SaaS · Next.js · Stripe Connect |
-| [MC-Terra](https://mc-terra.ch) | Therapeutic coaching platform · LMS, CRM, e-commerce |
-| [NeuroPlay](https://neuroplay.ch) | Educational gaming for neurodiverse kids |
-| [ILicence](https://licence.irixiagroup.ch) | Plugin licensing SaaS for Minecraft developers |
+### [Gotâme Studio](https://gotame-studio.ch)
+Site de présentation et de réservation pour un salon de bien-être. Conception et développement de deux versions : présentation des soins, affichage responsive, parcours de réservation, disponibilités et vérifications fonctionnelles.
 
-### Stack
+**Environnement :** TypeScript, React et Convex.
 
-**Web** · TypeScript · Next.js · React · Prisma · PostgreSQL · Tailwind CSS
+## Compétences
 
-**Backend** · Java 21 · Paper API · Maven · Node.js
+- **Web :** HTML, CSS, JavaScript, TypeScript, React, Next.js, TanStack Start.
+- **Données et services :** Convex, PostgreSQL, Prisma, intégration d’API.
+- **Déploiement et suivi :** Linux, Git/GitHub, Node.js, PM2, maintenance corrective et évolutive.
+- **Utilisateurs :** analyse des demandes, support applicatif et accompagnement numérique.
 
-**Infra** · Linux · Nginx · PM2 · Docker · Proxmox · Pterodactyl
+Mes autres dépôts comprennent des expérimentations et des projets historiques, notamment autour de Minecraft. Leur présence ne signifie pas qu’ils sont tous actifs ou commercialisés.
 
----
+## Parcours
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jm-command&show_icons=true&theme=dark&hide_border=true" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jm-command&layout=compact&theme=dark&hide_border=true" />
-</p>
+Apprentissage d’informaticien CFC, orientation développement d’applications, à 42 Lausanne et à l’EPSIC (2021–2023) : première année validée, cursus interrompu sans CFC obtenu. Cursus étudiant à 42 Lausanne en 2023–2024, non terminé.
+
+Français et portugais : langues maternelles. Anglais : A2.
+
+[LinkedIn](https://www.linkedin.com/in/jaime-andre-coelho/) · [Contact](mailto:jaime00coelho@gmail.com)
